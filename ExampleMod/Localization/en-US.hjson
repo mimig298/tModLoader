@@ -1014,6 +1014,11 @@ Mods: {
 				DisplayName: Custom Item Drawing Showcase
 				Tooltip: ""
 			}
+
+			ExampleAdvancedTooltipDrawingItem: {
+				DisplayName: Example Advanced Tooltip Drawing Item
+				Tooltip: This item showcases various Draw Tooltip hooks
+			}
 		}
 
 		# Projectile display names mainly show in chat when a player dies from it.
